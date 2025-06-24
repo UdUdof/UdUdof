@@ -45,6 +45,6 @@ If you're also learning or working in data, feel free to connect:
 
 ## 💡 Fun Fact
 
-🎨 I’ve been doing hair since childhood and love creativity—now I’m combining that creative eye with analytical thinking in the world of data!
+I love working with numbers 🔢, adore spending time with kids 🧒🏾, and have a passion for photography 📸. Feel free to check out my photo album on [VSCO](https://vs.co/4b0reg41) to see some of my favorite shots!
 
 
