@@ -4,7 +4,7 @@
 
 ---
 
-## 📊 What I Work With
+## What I Work With
 
 I enjoy working with tools and techniques that help uncover trends, solve problems, and tell meaningful stories through data. My toolkit includes:
 - 📊 **Excel** – for data cleaning, analysis, and visualization  
@@ -16,7 +16,7 @@ I enjoy working with tools and techniques that help uncover trends, solve proble
 
 ---
 
-## 🛠️ Projects & Practice
+## 🛠️ Projects & Practice -- NEEDS WORK!!
 
 Some of the projects I'm currently working on:
 - **Capstone Project** – analyzing [insert topic] using Power BI and narrative insights  
